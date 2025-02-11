@@ -14,11 +14,8 @@ The visit to UTMDigital was an enlightening experience aimed at exploring the or
 In this video, we document our recent visit to UTMDigital, where we explored the innovative digital services that support the UTM community. The video begins with an introduction of our group, including our members and faculty, followed by a detailed overview of the visit's timeline and activities. We provide insights into UTMDigital's organizational structure, mission, and the range of services offered to students and staff. Key highlights include an interview with [insert name and position of interviewee], where we discuss frequently requested services and how UTMDigital addresses challenges like system downtime and cybersecurity threats. Additionally, we capture an engaging talk that further emphasizes the significance of digital transformation in education. Through this video, we aim to share our valuable learning experience and the impact of UTMDigital's services on enhancing student learning and campus life.
 <div align="center">
      
-[![UTM Digital](https://img.youtube.com/vi/Npvh_5pnrEI/0.jpg)](https://www.youtube.com/watch?v=Npvh_5pnrEI)
+[![UTM Digital](https://img.youtube.com/vi/YU3Mz2UQffw/0.jpg)](https://www.youtube.com/watch?v=YU3Mz2UQffw)
 </div>
-
-> Click the image above to view the full PDF.
-> </div>
 
 
 
